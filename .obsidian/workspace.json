@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "LangChain Overview"
             }
-          },
-          {
-            "id": "1ca2e8b851440fc0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ModelsExample.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ModelsExample.excalidraw"
-            }
           }
         ]
       }
@@ -201,6 +189,7 @@
   "active": "72c42569c1573eab",
   "lastOpenFiles": [
     "Excalidraw/ModelsExample.excalidraw.md",
+    "Excalidraw/ModelsFLow.excalidraw.md",
     "LangChain/LangChain Overview.md",
     "Excalidraw",
     "Excalidraw/tab.excalidraw.md",
