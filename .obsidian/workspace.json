@@ -4,37 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "084e63807a03fa83",
+        "id": "a7aa26601b9ab6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "72c42569c1573eab",
+            "id": "964e75c651a04a1d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LangChain/LangChain Overview.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LangChain Overview"
-            }
-          },
-          {
-            "id": "6b3ec2d68a3680a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ModelsFLow.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ModelsFLow.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b8e9fe593f78b",
@@ -178,13 +160,23 @@
               "icon": "lucide-list",
               "title": "Outline of LangChain Overview"
             }
+          },
+          {
+            "id": "a761fbc375cdf9c5",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9cb24529dab930e4",
+  "active": "964e75c651a04a1d",
   "lastOpenFiles": [
-    "Excalidraw/ModelsFLow.excalidraw.md",
+    "Excalidraw/Drawing 2026-01-25 21.08.09.excalidraw.md",
     "LangChain/LangChain Overview.md",
+    "Untitled.base",
+    "Excalidraw/ModelsFLow.excalidraw.md",
     "Excalidraw/ModelsExample.excalidraw.md",
     "Excalidraw",
     "Excalidraw/tab.excalidraw.md",
@@ -211,7 +205,6 @@
     "Untitled.md",
     "LangChain",
     "Generative AI.md",
-    "Untitled.base",
     "Untitled.canvas",
     "create a link.md"
   ]
