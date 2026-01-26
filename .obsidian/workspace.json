@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "LangChain/2. Models.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eb3b8e9fe593f78b",
@@ -197,23 +196,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ce962683cea9c7f",
+  "active": "6121311d7a4f6eeb",
   "lastOpenFiles": [
-    "Excalidraw/LanguageModelsTypes.excalidraw.md",
-    "Excalidraw/ModelsTypes.excalidraw.md",
+    "Untitled",
+    "Code/1.Basic/node_modules/@langchain/anthropic/README.md",
+    "Code/1.Basic/node_modules/@langchain/anthropic/LICENSE",
+    "Code/1.Basic/node_modules/@langchain/anthropic/CHANGELOG.md",
+    "Code/1.Basic/node_modules/@google/generative-ai/server/package.json",
+    "Code/1.Basic/node_modules/@google/generative-ai/server",
+    "Code/1.Basic/node_modules/@google/generative-ai/README.md",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/writeOnlyError.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/wrapRegExp.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/usingCtx.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/using.js",
+    "Code/1.Basic/node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js",
+    "Excalidraw/2. Models 2026-01-26 00.58.25.excalidraw.md",
     "LangChain/2. Models.md",
-    "LangChain/1. LangChain Overview.md",
-    "Excalidraw/Drawing 2026-01-25 21.08.09.excalidraw.md",
-    "Untitled.base",
-    "Excalidraw/ModelsFLow.excalidraw.md",
-    "Excalidraw/ModelsExample.excalidraw.md",
-    "Excalidraw",
-    "Excalidraw/tab.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-24 22.08.27.excalidraw.md",
-    "Excalidraw/Overview 2026-01-24 22.06.54.excalidraw.md",
-    "LangChain",
-    "Generative AI.md",
-    "Untitled.canvas",
-    "create a link.md"
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/visual-question-answering/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/zero-shot-classification/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/zero-shot-object-detection/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/zero-shot-image-classification/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/video-classification/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/visual-document-retrieval/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/video-to-video/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/video-text-to-text/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/unconditional-image-generation/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/translation/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/token-classification/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-to-speech/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-to-image/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-to-video/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-to-3d/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-classification/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-generation/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/tabular-regression/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-ranking/about.md",
+    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/table-question-answering/about.md",
+    "Untitled.canvas"
   ]
 }
