@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Python/1. Overview.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eb3b8e9fe593f78b",
@@ -198,6 +199,7 @@
   },
   "active": "0ce962683cea9c7f",
   "lastOpenFiles": [
+    "LangChain/1. LangChain Overview.md",
     "Python/1. Overview.md",
     "Untitled.md",
     "LangChain/2. Models.md",
@@ -233,7 +235,6 @@
     "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-classification/about.md",
     "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-generation/about.md",
     "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/tabular-regression/about.md",
-    "Code/1.Basic/node_modules/@huggingface/tasks/src/tasks/text-ranking/about.md",
     "Untitled.canvas"
   ]
 }
