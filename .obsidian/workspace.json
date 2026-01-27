@@ -28,14 +28,15 @@
               "type": "markdown",
               "state": {
                 "file": "Python/2. Operators + If-Else + Loops.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "2. Operators + If-Else + Loops"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,11 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e2543792e8987ce",
+  "active": "576ed90e6d3b088f",
   "lastOpenFiles": [
+    "Python/1. Overview.md",
     "Python/2. Operators + If-Else + Loops.md",
     "Python/Untitled.base",
-    "Python/1. Overview.md",
     "Untitled.base",
     "LangChain/1. LangChain Overview.md",
     "Untitled.md",
