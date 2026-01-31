@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/2. Operators + If-Else + Loops.md",
+                "file": "Python/3. String.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Operators + If-Else + Loops"
+              "title": "3. String"
             }
           }
         ]
@@ -200,6 +200,7 @@
   "active": "187b9b35df764336",
   "lastOpenFiles": [
     "Python/2. Operators + If-Else + Loops.md",
+    "Python/3. String.md",
     "Python/1. Overview.md",
     "Python/Untitled.base",
     "Untitled.base",
